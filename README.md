@@ -1,3 +1,3 @@
 ### algorithm
 
-Solved algorithm problems ^^7
+Solved Algorithm problems ^^7
